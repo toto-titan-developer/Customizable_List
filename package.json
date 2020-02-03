@@ -1,0 +1,22 @@
+{
+  "name": "customizable_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toto-titan-developer/Customizable_List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toto-titan-developer/Customizable_List/issues"
+  },
+  "homepage": "https://github.com/toto-titan-developer/Customizable_List#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
